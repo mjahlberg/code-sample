@@ -1,0 +1,761 @@
+@media only screen
+and (max-width : 2000px) {
+}
+@media only screen
+and (max-width : 1240px) {
+
+}
+@media only screen
+and (max-width : 1050px) {
+    .cbp-af-header nav a {
+        margin: 0 0 !important;
+    }
+    .carousel-inner .card-cont {
+        padding: 0 50px !important;
+    }
+    #carousel-example .carousel-wrapper ol span {
+        padding: 10px 15px !important;
+    }
+    #case-study-goals h2, #case-study-strategies h2 {
+        margin: 150px 0 50px 50px;
+    }
+    #case-study-goals .list {
+        padding-left: 20px;
+    }
+}
+@media only screen
+and (max-width : 1000px) {
+
+}
+@media only screen
+and (max-width : 989px) {
+    .client-info img {
+        width: 200px;
+    }
+    #creator-quotes {
+        /*background-image: none !important;*/
+    }
+    #creator-quotes .container {
+        background-color: rgba(0, 0, 0, 0.65);
+        width: 100%;
+        background-size: cover;
+    }
+    #creator-quotes {
+         width: 100%;
+         background-size: cover;
+    }
+    #client-carousel {
+        height: auto !important;
+    }
+    #client-carousel .followers,
+    #client-carousel .engagements {
+        text-align: center;
+    }
+    #client-carousel .client-info {
+        max-width: none;
+    }
+    #brand-case-study .card-extra {
+        display: none;
+    }
+    #brand-case-study .card img {
+        /*padding: 90px 40px !important;*/
+    }
+    #brand-case-study .container {
+        margin-bottom: 40px;
+    }
+    #brand-campaign-design .design-text h1 {
+        margin: 60px 40px 10px 0;
+    }
+    #brand-campaign-design .col-md-6 p {
+        margin: 0 40px 70px 0;
+    }
+    .brand-campaign-design-one {
+        display: none;
+    }
+    .brand-campaign-design-two {
+        display: inline;
+    }
+    #discover h1 {
+        margin: 100px 100px 0;
+    }
+    .discover-btn1, .discover-btn2 {
+        width: 320px !important;
+        height: 80px !important;
+        padding: 20px !important;
+        font-size: 25px !important;
+        letter-spacing: 2px !important;
+        /*margin-bottom:110px;*/
+    }
+    #brand-performance p {
+        margin: 10px 70px 50px 70px;
+    }
+    #creator-quotes .creator-separator {
+        border: 1px solid rgba(196, 191, 191, 0.3);
+        text-align: center;
+        margin: 20px 100px;
+        border-radius: 50px;
+    }
+    .discover-btn1, .discover-btn2 {
+        width: 335px !important;
+        height: 75px !important;
+        padding: 17px !important;
+        font-size: 25px !important;
+        letter-spacing: 3px !important;
+        /*margin-bottom: 130px;*/
+    }
+    #brand-info .brand-social-steps img {
+        width: 115px;
+    }
+    #brand-info .brand-social-steps .col-md-4 p {
+        font-size: 15px;
+    }
+    #brand-info .brand-btn {
+        font-size: 17px;
+        width: 230px;
+        height: 50px;
+        padding: 12px;
+        margin: 30px 0 60px 0;
+    }
+    #info h1 {
+        margin: 100px 10px 70px 10px;
+    }
+    #menu-item-45,
+    #menu-item-46,
+    #menu-item-174,
+    #menu-item-175,
+    #menu-item-2177,
+    #menu-item-2261,
+    #menu-item-2270 {
+        display: none !important;
+    }
+    #menu-item-366,
+    #menu-item-379 {
+        display: none !important;
+    }
+    #trigger-overlay {
+        display: inline-block !important;
+        cursor: pointer !important;
+        float: right !important;
+        position: fixed;
+        right: 10px;
+        top: 10px;
+    }
+    #trigger-overlay svg {
+        width: 75px !important;
+        height: 75px !important;
+    }
+    #case-study-goals-2 {
+        display: inline !important;
+    }
+    /*#case-study-goals {*/
+        /*display: none;*/
+    /*}*/
+    #case-study-strategies h2,
+    #case-study-goals-2 h2 {
+        font-size: 35px;
+        margin: 80px 0 50px 0;
+        text-align: center;
+    }
+    #case-study-strategies .list {
+        margin: auto;
+        text-align: center;
+    }
+    #creator-steps .col-md-3 {
+        padding: 0 !important;
+    }
+    #creator-quotes h1 {
+        margin-bottom: 30px;
+    }
+    #about-company-story .about-company-image {
+        display: none !important;
+    }
+    #about-company-story h2 {
+        margin: 60px 0 20px 0;
+    }
+    #case-study-goals i, #case-study-strategies i {
+        margin: 9px 30px 30px 30px;
+    }
+    #spotlight .carousel-wrapper .carousel-indicators {
+        display: none !important;
+    }
+    #spotlight .carousel-inner {
+        display: none !important;
+    }
+    #spotlight .creators-mobile-card {
+        display: inline;
+    }
+    #spotlight .carousel-wrapper h5 {
+        padding: 10px 0 10px 0;
+    }
+    #client-carousel .carousel-indicators {
+        display: none !important;
+    }
+    #client-carousel .indicators-mobile {
+        display: block !important;
+        margin-bottom: 60px !important;
+    }
+    #client-carousel {
+        margin-top: 0 !important;
+    }
+    #info h1 {
+        margin: 50px 10px 70px 10px;
+    }
+    #spotlight .spotlight_subtitle {
+        display: none;
+    }
+    #spotlight .spotlight_subtitle_mobile {
+        display: block;
+        font-size: 16px;
+    }
+    #case-study-goals .list {
+        text-align: center;
+        padding: 0 !important;
+        margin-bottom: 50px;
+    }
+    #case-study-goals h2, #case-study-strategies h2 {
+        margin: 60px 0 50px 0;
+        font-size: 40px;
+    }
+
+}
+@media only screen
+and (max-width : 900px) {
+    #case-study-goals-2 .list {
+        margin-left: 0;
+        margin-bottom: 50px;
+    }
+    #case-study-strategies .list {
+        margin-bottom: 50px;
+    }
+}
+@media only screen
+and (max-width : 840px) {
+    .cbp-af-header nav a {
+        color: white;
+        font-weight: 400;
+        margin: 0 30px !important;
+        font-size: 1.4em;
+        font-family: 'Titillium Web', sans-serif;
+    }
+    #about-executives .half,
+    #about-employee-list .half {
+        height: 160px !important;
+        width: 160px !important;
+        border-radius: 100px !important;
+    }
+    #about-executives .col-md-4 img,
+    #about-executives .col-md-5 img,
+    #about-employee-list .col-md-4 img,
+    #about-employee-list .col-md-5 img {
+        height: 160px;
+        border-radius: 100px;
+        border: 2px solid rgb(59, 188, 210);
+    }
+    #about-executives .col-md-4 h3,
+    #about-executives .col-md-5 h3,
+    #about-employee-list .half h3{
+        font-size: 20px !important;
+    }
+    /*.row .half img {*/
+        /*padding: 30% 50px;*/
+    /*}*/
+}
+@media only screen
+and (max-width : 800px) {
+    #creator-performance h1 {
+        font-size: 25px;
+    }
+    #case-study-goals-2 .list {
+        margin-left: 50px;
+        max-width: 650px;
+    }
+}
+@media only screen
+and (max-width : 767px) {
+    #creator-quotes .creator-separator {
+        margin: 20px 50px;
+    }
+    .js .floating-labels .icon .cd-label {
+        left: 30px !important;
+    }
+    #brand-campaign-design .brand-campaign-box {
+        height: 400px;
+        margin-top: 0 !important;
+    }
+    #brand-campaign-design .col-md-6 p {
+        margin-bottom: 20px !important;
+    }
+    #brand-campaign-design .design-text h1 {
+        margin-top: 0px !important;
+    }
+    .carousel-inner .card:hover button,
+    .carousel-inner .card:hover p,
+    .carousel-inner .card-hover h1,
+    .carousel-inner .card-hover {
+        opacity: 0 !important;
+    }
+    #brand-discover .submit-form-btn {
+        width: 290px !important;
+        height: 55px !important;
+        padding: 13px !important;
+        font-size: 21px !important;
+    }
+    .navbar-nav > li > a {
+        line-height: 30px;
+    }
+    .page-template-creator-form .cd-form [required].user,
+    .page-template-creator-form .cd-form [required].email,
+    .page-template-creator-form .cd-form [required].phone,
+    .page-template-creator-form .cd-form .vine,
+    .page-template-creator-form .cd-form .instagram,
+    .page-template-creator-form .cd-form .twitter,
+    .page-template-creator-form .cd-form .snapchat,
+    .page-template-creator-form .cd-form .message
+    {
+        background: none !important;
+    }
+    .cd-form .icon input,
+    .cd-form .icon select,
+    .cd-form .icon textarea {
+        padding-left: 30px !important;
+    }
+    #about-partners .col-md-4 {
+        height: 45px;
+        padding: 25px;
+    }
+    #about-company-story .about-company {
+        padding: 0 40px;
+    }
+    #case-study-header .case-study-stats .border-1,
+    #case-study-header .case-study-stats .border-2 {
+        display: none !important;
+    }
+    article .post {
+        padding: 0em 3em !important;
+    }
+}
+@media only screen
+and (max-width : 750px) {
+    .discover-btn1, .discover-btn2 {
+        width: 240px !important;
+        height: 50px !important;
+        padding: 8px !important;
+        font-size: 19px !important;
+        letter-spacing: 2px !important;
+        margin-bottom: 90px;
+    }
+    #discover h1 {
+        margin: 70px 70px;
+    }
+    .navbar-nav > li > a {
+        padding-bottom: 30px;
+    }
+    #brand-campaign-design .design-text {
+        padding-left: 40px;
+        padding-right: 30px;
+        margin-top: 20px;
+    }
+    #bigvideo h1 {
+        padding: 0 15%;
+    }
+    #creator-performance .performers {
+        height: 310px;
+    }
+    .carousel-indicators li {
+        width: 160px !important;
+        margin: 5px 0 0 0 !important;
+    }
+    #case-study-goals-2 .list {
+        margin-left: 0;
+        max-width: 650px;
+    }
+    #case-study-header .case-study-stats h2 {
+        font-size: 45px;
+    }
+    #case-study-header .case-study-stats h4 {
+        font-size: 20px;
+    }
+    #case-study-header .case-study-stats i {
+        font-size: 45px;
+    }
+}
+@media only screen
+and (max-width : 600px) {
+    #brand-info .brand-social-logos {
+        border-top: none;
+        border-left: none;
+        border-right: none;
+    }
+    #brand-campaign-design .brand-campaign-box {
+        height: 300px;
+        margin-top: 0 !important;
+    }
+    #brand-performance p {
+        margin: 10px 20px 40px 20px;
+    }
+    #bigvideo h1 {
+        font-size: 50px;
+        text-align: center;
+    }
+    #discover h1 {
+        font-size: 30px;
+    }
+    /*#discover .discover-btn1,*/
+    /*#discover .discover-btn2 {*/
+        /*width: 260px !important;*/
+        /*height: 60px !important;*/
+        /*padding: 13px !important;*/
+        /*font-size: 19px !important;*/
+        /*letter-spacing: 1px !important;*/
+        /*margin-bottom: 90px !important;*/
+    /*}*/
+    .btn-solid {
+        margin-bottom: 20px;
+    }
+    #brand-campaign-design h1 {
+        font-size: 1.7em !important;
+    }
+    #brand-performance h1 {
+        margin: 30px 20px 10px 20px;
+        font-size: 1.7em !important;
+    }
+    .rw-sentence {
+        margin-top: 150px !important;
+    }
+    .rw-sentence span {
+        font-size: 38px !important;
+    }
+    #brand-info .brand-social-steps .col-md-4 p {
+        margin: 20px 0;
+    }
+    #brand-discover h1 {
+        font-size: 30px;
+    }
+    #brand-campaign-design .col-md-6 p {
+        margin: 0 0 70px 0;
+    }
+    #brand-campaign-design .design-text {
+        padding-left: 40px;
+    }
+    .carousel-indicators li {
+        width: 140px !important;
+        margin: 5px 0 0 0 !important;
+    }
+    #case-study-goals-2 i {
+        font-size: 30px;
+        margin: 20px 30px 30px 20px;
+    }
+    #case-study-goals-2 h2 {
+        font-size: 32px;
+        margin: 60px 0 35px 25px;
+    }
+    #case-study-header .case-study-stats h2 {
+        font-size: 35px;
+    }
+    #case-study-header .case-study-stats h4 {
+        font-size: 15px;
+    }
+    #case-study-strategies i {
+        font-size: 40px;
+        float: left;
+        margin: 7px 30px 30px 20px;
+    }
+    #about-header img {
+        width: 50%;
+        margin-top: 30px;
+    }
+    #menu-item-2177 {
+        display: none !important;
+    }
+}
+@media only screen
+and (max-width : 500px) {
+    #bigvideo h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    #discover h1 {
+        font-size: 25px;
+        margin: 50px 30px;
+    }
+    .js .floating-labels .icon .cd-label {
+        left: 15px !important;
+    }
+    .js .floating-labels .cd-label {
+        font-size: 1.4rem !important;
+    }
+    #info .col-md-4 {
+        padding: 0 20px !important;
+    }
+    #info h1 {
+        margin: 30px 0 70px 0;
+    }
+    #discover h1 {
+        margin: 20px 30px;
+    }
+    #bigvideo h1 {
+        padding: 0;
+    }
+    #creator-header h1 {
+        font-size: 25px;
+    }
+    #creator-header button {
+        width: 210px;
+        height: 45px;
+        font-size: 14px;
+    }
+    .menu-item-42 svg {
+        margin: 0 !important;
+    }
+    .cbp-af-header nav a {
+         min-width: 0 !important;
+    }
+    #trigger-overlay {
+        right: 0 !important;
+    }
+    #brand-discover h1 {
+        font-size: 23px;
+    }
+    .cd-form .icon input,
+    .cd-form .icon select,
+    .cd-form .icon textarea {
+        padding-left: 15px !important;
+    }
+    #about-company-story .about-company {
+        padding: 0 30px;
+    }
+    #about-header .about-header-info h1 {
+        margin-top: 80px;
+        font-size: 30px;
+        font-weight: 700;
+    }
+    #about-header .about-header-info h3 {
+        font-weight: 500;
+        font-size: 22px;
+        padding: 0 20px;
+    }
+    #about-header {
+        height: 600px;
+    }
+    #case-study-goals .case-goals-list .icon,
+    #case-study-goals-2 .case-goals-list .icon,
+    #case-study-strategies .case-strategies-list .icon {
+        max-width: none;
+    }
+}
+@media only screen
+and (max-width : 480px) {
+    .number-scroller{
+        font-size: 20px !important;
+        font-weight: 600;
+    }
+    #home .btn {
+        width: 100%;
+    }
+    #info .row {
+        margin: 0 !important;
+    }
+    .Toggle-ui {
+    font-size: 18px !important;
+    }
+    #brand-discover .submit-form-btn {
+        width: 240px !important;
+        height: 50px !important;
+        padding: 8px !important;
+        font-size: 18px !important;
+    }
+    .discover-btn1, .discover-btn2 {
+        width: 250px !important;
+        height: 60px !important;
+        padding: 11px !important;
+        font-size: 21px !important;
+        letter-spacing: 2px !important;
+    }
+    #brand-header .brand-header-text h1 {
+        font-size: 29px;
+    }
+    #creator-header .creator-header-wheel {
+        margin-bottom: 20px;
+    }
+    #creator-performance .performers {
+        height: 260px;
+    }
+    #creator-quotes .row {
+        margin-bottom: 40px;
+    }
+    .carousel-indicators li {
+        width: 110px !important;
+        margin: 5px 0 0 0 !important;
+    }
+    .rw-words{
+        top: 3px !important;
+        margin: 3px 8px 0 0 !important;
+        height: 58px !important;
+    }
+    .overlay ul li a {
+        font-size: 35px;
+    }
+    #case-study-goals-2 p {
+        font-size: 14px;
+    }
+    #case-study-strategies p {
+        font-size: 14px;
+        /*min-width: 300px;*/
+    }
+    #case-study-header .case-study-stats img {
+        max-width: 95px;
+    }
+    #case-study-strategies h2 {
+        font-size: 40px;
+        margin: 40px 0 50px 0;
+    }
+    #case-study-strategies i {
+        font-size: 40px;
+        margin: 25px 30px 20px 20px;
+    }
+    #case-study-hashtag h1 {
+        font-size: 25px;
+        margin: 40px 0;
+        letter-spacing: 2px;
+        width: 100%;
+    }
+    #case-study-strategies .ios-device {
+        margin: 60px auto;
+    }
+    #case-study-header .case-study-stats i {
+        margin: 0 0 10px 0;
+    }
+    #case-study-header h4 {
+        min-height: 10px;
+    }
+    #about-partners .col-md-4 {
+        padding: 20px;
+        height: 35px;
+    }
+    #about-executives .row {
+        margin-top: 40px;
+    }
+    #brand-case-study .card img {
+        height: 60px !important;
+    }
+    article .post {
+        padding: 0em 1.3em !important;
+    }
+    #case-study-strategies .case-strategies-list {
+        margin: 0px;
+    }
+    #menu-menu-2 li {
+        display: inline-block;
+    }
+    #blog-post h4 {
+        font-size: 2.2em !important;
+    }
+    #sidebar {
+        padding: 20px 2em;
+    }
+    #campaign-audience .col-md-4 {
+        padding: 0;
+    }
+    #campaign-audience {
+        padding: 50px 10px 50px 10px;
+    }
+    #spotlight .creators-mobile-card h2 {
+        font-size: 20px;
+    }
+    #spotlight .creators-mobile-card h3 {
+        font-size: 16px;
+    }
+    #spotlight .carousel-wrapper h3 {
+        font-size: 23px;
+    }
+    #bigvideo .scroll-text {
+        font-size: 36px;
+    }
+    .number-scroller ul {
+        float: left;
+        list-style: none;
+        margin: 0 1px 0 0;
+        padding: 0 6px;
+    }
+    #privacy form {
+        padding: 20px;
+    }
+@media only screen
+and (max-width : 360px) {
+    .ios-device {
+        width: 280px;
+        height: 582.66667px;
+    }
+    #footer-wrap #menu-menu-2 li {
+        display: inline-block !important;
+    }
+    #footer-wrap #menu-menu-2 li {
+        min-width: 30px !important;
+    }
+    .ios-device__camera:before{
+        top: 28.93333px;
+        left: 83.46667px;
+    }
+    #creator-header .row {
+        margin-top: 40px;
+    }
+    #spotlight .carousel-indicators{
+        display: none;
+    }
+    #bigvideo h1 {
+        font-size: 35px;
+        text-align: center;
+        font-weight: 300;
+    }
+    .carousel-inner .card h3 {
+        font-size: 13px;
+    }
+    .carousel-inner .card-cont {
+        padding: 0 40px !important;
+    }
+    #info .col-md-4 {
+        padding: 0 !important;
+    }
+    #creator-header h1 {
+        font-size: 19px;
+    }
+    #creator-header button {
+        width: 165px;
+        height: 38px;
+        font-size: 13px;
+    }
+    #creator-quotes h1 {
+        margin-bottom: 30px;
+    }
+    .carousel-indicators li {
+        width: 95px !important;
+    }
+    #trigger-overlay svg {
+        width: 50px !important;
+        height: 75px !important;
+    }
+    #case-study-goals-2 p {
+        min-width: 280px;
+    }
+    #case-study-goals-2 i {
+        margin: 27px 20px 30px 10px
+    }
+    #case-study-strategies i {
+        font-size: 30px;
+        margin: 27px 20px 30px 10px
+    }
+    #case-study-header .case-study-stats h2 {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+    #case-study-header .case-study-stats h4 {
+        font-size: 15px;
+    }
+    #spotlight .creators-mobile-card h2 {
+        font-size: 18px;
+    }
+    #spotlight .creators-mobile-card h3 {
+        font-size: 15px;
+    }
+}
+
